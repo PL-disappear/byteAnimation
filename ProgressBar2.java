@@ -1,5 +1,5 @@
 /**
- * Ä£Äâ°²×°½ø¶ÈÌõ 2018Äê5ÔÂ2ÈÕ
+ * æ¨¡æ‹Ÿå®‰è£…è¿›åº¦æ¡ 2021å¹´5æœˆ2æ—¥
  */
 public class ProgressBar2 
 {
@@ -9,7 +9,7 @@ public class ProgressBar2
 
 		while (x <= 100)
 		{
-			System.out.print("Ä£Äâ°²×°½ø¶ÈÌõ£º");
+			System.out.print("æ¨¡æ‹Ÿå®‰è£…è¿›åº¦æ¡ï¼š");
 			System.out.printf("%3d%%\r", x);
 			try
 			{
