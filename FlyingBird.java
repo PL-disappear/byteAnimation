@@ -1,5 +1,5 @@
 /**
- * ·ÉÏèµÄĞ¡Äñ 2018Äê5ÔÂ2ÈÕ
+ * é£ç¿”çš„å°é¸Ÿ 2021å¹´5æœˆ2æ—¥
  */
 public class FlyingBird 
 {
@@ -9,7 +9,7 @@ public class FlyingBird
 
 		while (x <= 60)
 		{
-			System.out.print("·ÉÏèµÄĞ¡Äñ£º");
+			System.out.print("é£ç¿”çš„å°é¸Ÿï¼š");
 			for (int i = 1; i <= x; i++)
 			{
 				System.out.print(" ");
