@@ -1,5 +1,5 @@
 /**
- * ÔË¶¯µÄ·É¼ı 2018Äê5ÔÂ2ÈÕ
+ * è¿åŠ¨çš„é£ç®­ 2021å¹´5æœˆ2æ—¥
  */
 public class MovingArrow 
 {
@@ -9,7 +9,7 @@ public class MovingArrow
 
 		while (x <= 60)
 		{
-			System.out.print("ÔË¶¯µÄ·É¼ı£º");
+			System.out.print("è¿åŠ¨çš„é£ç®­ï¼š");
 			for (int i = 1; i <= x; i++)
 			{
 				System.out.print(" ");
